@@ -1,0 +1,13 @@
+body {
+  background-color: #f5f7fb;
+  font-family: Arial, sans-serif;
+}
+
+.card {
+  border: none;
+  border-radius: 10px;
+}
+
+.table th {
+  font-weight: 600;
+}
